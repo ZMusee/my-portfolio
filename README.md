@@ -16,7 +16,7 @@ The website serves as a personal portfolio showcasing my skills, inspirations, a
 ### 🎮 **Mini Games**
 - **Mad Libs Generator** – A fun word game that creates a random story.  
 - **Magic 8 Ball** – A simple interactive game that provides randomized answers.  
-- **Matching Game** – A memory-based card matching game.  
+- **Matching Game** – An anime themed memory-based card matching game.  
 
 ## 🛠️ Technologies Used  
 - **HTML5, CSS3, Bootstrap** – For structure and responsive styling.  
